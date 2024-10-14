@@ -21,7 +21,7 @@ int main() {
 	  cin >> licencia;
 		switch (licencia) {
 		case false:
-			cout << "no puedes conducir sin licencia";
+			cout << "No puedes conducir sin licencia";
 			break;
 		case true:
 			cout << "puede conducir sin problema";
